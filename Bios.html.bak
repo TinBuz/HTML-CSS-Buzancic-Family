@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+ 
+ <head>
+
+ <!--
+	HTML and CSS
+	Project 1 Members Bios Page
+	Name: Tin Buzancic
+	Date: 3/5/14
+ -->
+  
+  <meta charset="UTF-8">
+  <title>Lazer Academy - Bios</title>
+  <script src="modernizr-1.5.js"></script>
+  <link href="LA_Style_Sheet.css" rel="stylesheet" type="text/css"/>
+
+ </head>
+ 
+ <body>
+
+ <header>
+	<h1 id="main_header"><img src="Bio_header.png" alt="BioH"/></h1>
+ </header>
+
+<nav id="Main_Nav">
+	<ul>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="bios.html">Biographies</a></li>
+		<li><a href="tour.html">See Us Live!</a></li>
+		<li><a href="merch.html">LA Merch</a></li>
+	</ul>
+ </nav>
+
+ <nav id="Bio_Nav">
+	<ul>
+		<li><a href="Bios.html#Tin">Tin Buzancic </a></li>
+		<li><a href="Bios.html#Eugene">Eugene Choe </a></li>
+		<li><a href="Bios.html#Fedja">Fedja Buzancic </a></li>
+	</ul>
+ </nav>
+ 
+ <section>
+
+ <h2 id="Tin">Tin Buzancic</h2>
+
+  <figure id="Tin_Pic">
+	<img src="Tin_Pic.jpg" alt="TinPic"/>
+  </figure>
+
+ <p id="BioT">
+	Born in Passaic and raised in Ridgfield, Tin was not always invovlved with music. He first started showing interest in heavy metal/rock music during his early teenage years. Throughout high school he transfered the deep, emotional, and heavy music into the Electronica scene. The duo Ratatat initatied love for synthesized sounds and harmonies. Today, Tin shows love for every type of music, but feels most connected to Dubstep, Glitch Hop, and other forms of heavy bass music.
+ </p>
+
+ <ul id="FactsT">
+	<li id="LiHead1">Five Facts</li>
+	<li>Croatian Descent</li>
+	<li>19 Years Old</li>
+	<li>Currently studying Computer Science</li>
+	<li>Awarded 3rd Best Tenor 1 in the State of New Jersey</li>
+	<li>Favorite Chocolate is Kit Kats</li>
+ </ul>
+
+ <h2 id="Eugene">Eugene Choe</h2>
+
+  <figure id="Eugene_Pic">
+	<img src="Eugene_Pic.jpg" alt="EugenePic"/>
+  </figure>
+
+ <p id="BioE">
+	While Tin offers the musical and compopsition aspect to Lazer Academy, Eugene is a master with the technical aspects of Audio Engineering. His knowledge in Audio EQing, Mastering, Compression, and leveing offers Lazer Academy a unique, crisp and clean sound. Without his expertise in these fields, the Lazer Academy project could not be completed. Eugene is of Korean descent and knew Tin throughout all of highschool. It was not until later years where to two connected and started to make music together. Eugene is also very musically talented and offers great help to the musical side of things.
+ </p>
+
+  <ul id="FactsE">
+    <li id="LiHead2">Five Facts</li>
+	<li>Favorite Genre of Music is Classic Rock</li>
+	<li>Does Freelance work for Projects that need Audio Editing</li>
+	<li>Amazing Guitarist</li>
+	<li>Favorite EDM Artist is Zedd</li>
+	<li>Loves Dogs, Hates Cats</li>
+ </ul>
+
+ <h2 id="Fedja">Fedja Buzancic</h2>
+
+  <figure id="Fedja_Pic">
+		<img src="Fedja_Pic.jpg" alt="FedjaPic"/>
+ </figure>
+
+ <p id="BioF">
+	Fedja, the older brother of Tin, offers a unique and special piece to the Lazer Academy puzzle. While Fedja does not physically create music, he still plays a very important role. He is the coordinaotr, manager, co-producer, and brainstormer of the group. Fedja creates the foundation and meaning of each track and music video that coincides with each song. While Tin and Eugene are busy creating and mastering music, Fedja is the business half. All emails, promos, bookings, and other business inquiries go directly through Fedja.
+ </p>
+
+  <ul id="FactsF">
+    <li id="LiHead3">Five Facts</li>
+	<li>Employed as an Electrical Engineer</li>
+	<li>Lives in Bethlehem, PA</li>
+	<li>Hates Electronic Dance Music</li>
+	<li>Loves to read Books</li>
+	<li>Favorite Band is Blink 182</li>
+ </ul>
+
+ </section>
+	
+ <footer>
+	Lazer Academy &bull;
+	Send Promos to: <a href="mailto:thelazeracademy@gmail.com?subject=Promo" target="window">thelazeracademy@gmail.com</a> &bull;
+	Ridgefield, NJ 07657
+ </footer>
+ 
+ </body>
+</html>

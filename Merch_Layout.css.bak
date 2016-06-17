@@ -1,0 +1,10 @@
+
+/* SPECIFIC LAYOUT FOR MERCHANDISE PAGE */
+
+body {
+	margin: 0px auto;
+	padding: 0px;
+	width: 100%;
+	max-width: 1400px;
+	min-width: 900px;
+}

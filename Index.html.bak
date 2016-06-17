@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+ 
+
+ <head>
+ 
+ <!--
+	HTML and CSS
+	Project 1
+	Lazer Academy Home Page
+	Name: Tin Buzancic
+	Date: 3/4/14
+ -->
+  
+  <meta charset="UTF-8">
+  <title>Lazer Academy - Home</title>
+  <script src="modernizr-1.5.js"></script>
+  <link href="LA_Style_Sheet.css" rel="stylesheet" type="text/css"/>
+
+ </head>
+ 
+ 
+ <body>
+
+ 	<header>
+		<h1 id="main_header"><img src="newcreate.png" alt="backdrop"/></h1>
+	</header>
+
+	 <nav id="Main_Nav">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="bios.html">Biographies</a></li>
+			<li><a href="tour.html">See Us Live!</a></li>
+			<li><a href="merch.html"/>LA Merch</a></li>
+		</ul>
+	 </nav>
+
+ <section>
+	<header>
+		<h2 id="intro">Introduction</h2>
+	</header>
+
+	<aside id="Soundcloud">
+		<h2 id="SC">Soundcloud Links</h2>
+			<ul>
+				<li><a href="http://soundcloud.com/lazer_academy/drop-it-like" target="window">Drop It Like</a></li>
+				<li><a href="http://soundcloud.com/lazer_academy/press-start" target="window">Press Start</a></li>
+				<li><a href="http://soundcloud.com/lazer_academy/fuck-house-mix" target="window">F@#$ HOUSE MIX</a></li>
+			</ul>
+	</aside>
+
+	<Figure>
+		<img src="LA_Logo.jpg" alt="Logo" id="Logo"/>	
+	</Figure>
+
+	<p>
+		Lazer Academy is is an Electronic Dance Music production group founded in 2012 by Tin Buzancic and Eugene Choe. The group consists
+		of Tin Buzancic and Eugene Choe with co-producer/manager Fedja Buzancic. After the release of
+		their hot single Drop It Like, the trio realized their potenetial because of all the positive feeback.
+		With music ranging from dubstep and electro house to moombahton and glitch hop, this is only the beginning for the young group.
+	</p>
+
+	<h2 id="Welc">Welcome</h2>
+
+	<p>
+		This is the offical web page of Lazer Academy. Here you will find all the information you need: Biographies, Merchandise, Song Titles/Albums, and most importantly, Tour Dates. Click on the designated links in order to find more information about this upcoming EDM group. Remember to support the group by purchasing merchandise, tracks, and tickets. All in all, the most important thing to do is to share and love the music! RAGE ON!
+	</p>
+	
+	<footer>
+		Lazer Academy &bull;
+		Send Promos to: <a href="mailto:thelazeracademy@gmail.com?subject=Promo" target="window">thelazeracademy@gmail.com</a> &bull;
+		Ridgefield, NJ 07657
+	</footer>
+
+ </section>
+ 
+ </body>
+</html>

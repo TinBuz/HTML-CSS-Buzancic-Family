@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+ 
+ 
+ <head>
+
+ <!--
+	HTML and CSS
+	Project 1 Merchandise Pace
+	Name: Tin Buzancic
+	Date: 3/4/14
+ -->
+
+
+  <meta charset="UTF-8">
+  <title>Lazer Academy - Merch</title>
+  <link href="LA_Style_Sheet.css" rel="stylesheet" type="text/css"/>
+  <link href="Merch_Layout.css" rel="stylesheet" type="text/css"/>
+ 
+ </head>
+
+ <body>
+	
+	<header id="main_header">
+		<h1><img src="Merch.png" alt="merchheader"/></h1>
+	</header>
+  
+	<nav id="merch_nav">
+		<ul>
+			<li><a href="Merch.html#albums">Albums</a></li>
+			<li><a href="Merch.html#SnS">Shirts n Sweaters</a></li>
+			<li><a href="Merch.html#accesories">Accesories</a></li>
+		</ul>
+	</nav>
+
+	<nav id="Main_Nav">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="bios.html">Biographies</a></li>
+			<li><a href="tour.html">See Us Live!</a></li>
+			<li><a href="merch.html">LA Merch</a></li>
+		</ul>
+	</nav>
+
+ <section>
+
+	<h2 id="albums">Albums</h2>
+		
+		<img src="pewpewalbum.jpg" alt="pewpew" id="ppalbum"/>
+		<img src="honorrollalbum.jpg" alt="hrablum" id="hralbum"/>
+		<img src="detentionalbum.jpg" alt="detalbum" id="detalbum"/>
+
+		<ul id="album1">
+			<li> P3W  P3W EP - $10
+				<ul>
+				<li>This is Lazer Academy's first official EP released in 2012, It contains the tracks: Press Start, Taste It, Drop It Like, Funk Off</li>
+				</ul>
+			</li>
+		</ul>
+
+		<ul id="album2">
+			<li> Honor Roll EP - $10
+				<ul>
+				<li>This is Lazer Academy's second official EP. It contains the tracks: Solarbea, Like This, Fedjbot at the Disco, Q Q</li>
+				</ul>
+			</li>
+		</ul>
+
+		<ul id="album3">
+			<li> Detention EP - $15
+				<ul>
+				<li>This album is Lazer Academy's latest release. It contains the tracks: Zombie Trap, Drum n Harmony, Splurge, Set This Place On</li>
+				</ul>
+			</li>
+		</ul>
+
+
+
+	<h2 id="SnS">Shirts n Sweaters</h2>
+	
+		<img src="blkshirt.jpg" alt="blkshirt" id="blkshirt"/>
+		<img src="whiteshirt.jpg" alt="whiteshirt" id="whiteshirt"/>
+		<img src="blksweater.jpg" alt="blksweater" id="blksweater"/>
+		<img src="whitesweater.jpg" alt="whitesweater" id="whitesweater"/>
+
+			<ul id="shirt1">
+				<li> Black LA Shirt - $10
+					<ul>
+					<li>Basic Black Lazer Academy T-Shirt. Comes in XS/S/M/L/XL/XXL</li>
+					</ul>
+				</li>
+			</ul>
+
+			<ul id="shirt2">
+				<li> White LA Shirt - $10
+					<ul>
+					<li>Basic White Lazer Academy T-Shirt. Comes in XS/S/M/L/XL/XXL</li>
+					</ul>
+				</li>
+			</ul>
+
+			<ul id="sweater1">
+				<li> Black LA Sweatshirt - $15
+					<ul>
+					<li>Basic Black Lazer Academy Sweatshirt. Comes in XS/S/M/L/XL/XXL</li>
+					</ul>
+				</li>
+			</ul>
+
+			<ul id="sweater2">
+				<li> White LA Sweatshirt - $15
+					<ul>
+					<li>Basic White Lazer Academy Sweatshirt. Comes in XS/S/M/L/XL/XXL</li>
+					</ul>
+				</li>
+			</ul>
+
+	<h2 id="accesories">Accesories</h2>
+
+		<img src="prmask.jpg" alt="prmask" id="prmask"/>
+		<img src="starkandi.jpg" alt="starkandi" id="starkandi"/>
+		<img src="lovecuff.jpg" alt="lovecuff" id="lovecuff"/>
+		<img src="kandiring.jpg" alt="kandiring" id="kandiring"/>
+
+			<ul id="mask">
+				<li> Porter Robinson Kandi Mask - $10
+					<ul>
+					<li>Fan created kandi mask made out of colored beads</li>
+					</ul>
+				</li>
+			</ul>
+
+			<ul id="star">
+				<li> Star Kandi Necklace - $5
+					<ul>
+					<li>Fan created star kandi necklace made out of colored beads</li>
+					</ul>
+				</li>
+			</ul>
+
+			<ul id="cuff">
+				<li> Love Cuff - $10 
+					<ul>
+					<li>Fan created kandi LOVE cuff made out of colored beads</li>
+					</ul>
+				</li>
+			</ul>
+
+			<ul id="ring">
+				<li> Kandi Ring Bundle - $5
+					<ul>
+					<li>Fan created kandi rings made out of kandi rings and gems</li>
+					</ul>
+				</li>
+			</ul>
+
+ </section>
+
+ <footer>
+	Lazer Academy &bull;
+	Send Promos to: <a href="mailto:thelazeracademy@gmail.com?subject=Promo" target="window">thelazeracademy@gmail.com</a> &bull;
+	Ridgefield, NJ 07657
+ </footer>
+  
+ </body>
+</html>
